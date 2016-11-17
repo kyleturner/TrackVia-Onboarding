@@ -21,5 +21,5 @@ Yes
 [Test Application](application_name)
 * goodbye
 
-< Awesome! We'll get started creating your [application_name](application_name)
+< Awesome! We'll get started creating your [Test Application](application_name)
 * provide/documentation
