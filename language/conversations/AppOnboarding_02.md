@@ -9,10 +9,10 @@ Create app
 < Let's get started creating a TrackVia app. First, what is the app's name?
 * request_confirmation
 
-[TestApp](application_name)
+[Test App](application_name)
 * affirmative/confirm
 
-< Great. Your app name is [TestApp](application_name)
+< Great. Your app name is [Test App](application_name)
 * onboarding/createapp
 
 < Next, provide a brief description of the purpose of your app.

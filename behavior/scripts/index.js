@@ -4,8 +4,7 @@ exports.handle = (client) => {
   // Create steps
   const sayHello = client.createStep({
     satisfied() {
-      // Boolean(client.getConversationState().helloSent)
-      return false
+      return Boolean(client.getConversationState().helloSent)
     },
     prompt() {
       client.addResponse('provide/instructions')
